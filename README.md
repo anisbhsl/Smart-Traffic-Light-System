@@ -2,6 +2,7 @@
 This project is based on real time traffic lights control using Arduino
 
 ## Traffic Lights
+![lights](/images/trafficlights.png){:class="img-responsive"}
 ![lights](/images/trafficlights.png){:height="50%" width="50%"}
 
 ## Lights Ordering 
