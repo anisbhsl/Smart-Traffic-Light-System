@@ -15,4 +15,8 @@ The image below is for visualization purpose.
 
 Proteus Version 8.3
 
+## PCB Layout
+![pcb layout](/images/pcb.png)
+Kicad
+
 
