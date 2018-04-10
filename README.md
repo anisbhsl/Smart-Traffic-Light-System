@@ -4,6 +4,10 @@ This project is based on real time traffic lights control using Arduino
 ## Traffic Lights
 ![lights](/images/trafficlights.png)
 
+## Lights Ordering 
+Lights have been ordered in the following format
+# Red Yellow Green GoLeft GoRight GreenPedestrian RedPedestrian
+![lightsequence](/images/traffic.jpg)
 
 ## Proteus Stimulation 
-I will update the repo soon :) 
+![circuit](/images/simulator.png)
